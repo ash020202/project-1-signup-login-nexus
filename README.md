@@ -28,7 +28,7 @@ This project is a React application featuring a frontend of an signup/login page
 
 2. **Navigate to the project directory:**
    ```bash
-   cd <repository-name>
+   cd project-nexus
 
   3.**Install dependencies:**
   ```bash
