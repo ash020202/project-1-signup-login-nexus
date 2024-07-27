@@ -3,6 +3,7 @@ import "../index.css";
 const LoginSignup = () => {
   const [active, setActive] = useState("sign up");
   const [errors, setErrors] = useState({ name: "", email: "", password: "" });
+  //   const [btnDisabled, setBtnDisabled] = useState(false);
   const name = useRef();
   const email = useRef();
   const password = useRef();
